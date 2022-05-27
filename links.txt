@@ -1,0 +1,7 @@
+https://devreadwrite.com/posts/yii2-basic-authorization-and-registration-via-the-database
+https://vegibit.com/how-to-install-the-advanced-template-in-yii2/
+https://riptutorial.com/yii2-advanced-app/example/6313/installation-or-setup
+https://www.cloudways.com/blog/rest-api-yii2/
+https://www.yiiframework.com/extension/yii2-oauth2#howto-use-it
+https://github.com/yii2mod/yii2-rbac#:~:text=README.md-,Yii2%20RBAC%20Extension,Allows%20to%20create%20console%20migrations
+https://github.com/mdmsoft/yii2-admin/issues/67
